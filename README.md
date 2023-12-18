@@ -31,4 +31,3 @@ README ->
 
 8.) Testing: Test your program with various inputs to ensure it counts words correctly and handles empty input gracefully.
 
-#------------------------------------------------------
