@@ -13,7 +13,7 @@ README ->
 
 
 
-# Requirements:
+# TO-DO:
 
 1.) User Interface: Create a basic command-line interface (CLI) for the word counter application.
 
